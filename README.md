@@ -1,4 +1,4 @@
-# ✨ Variable Star Classifier (Machine Learning)
+# Variable Star Classifier (Machine Learning)
 
 A machine learning classifier for identifying **different classes of variable stars** using features extracted from light curves.
 
@@ -13,7 +13,7 @@ This project demonstrates:
 
 
 
-## ⭐ Goal
+##  Goal
 
 To build a robust ML model that classifies stars into categories such as:
 
@@ -31,12 +31,12 @@ Using:
 
 ---
 
-## 📊 Machine Learning Approach
+##  Machine Learning Approach
 
-### 1️⃣ Load Light Curves  
+### 1️ Load Light Curves  
 TESS/Kepler FITS or simulated data.
 
-### 2️⃣ Extract Features  
+### 2️ Extract Features  
 Planned features include:
 - Period (Lomb-Scargle)  
 - Amplitude  
@@ -46,14 +46,14 @@ Planned features include:
 - Peak-to-peak variation  
 - Fourier harmonics  
 
-### 3️⃣ Train Classification Models
+### 3️ Train Classification Models
 Models considered:
 - Random Forest  
 - XGBoost  
 - Logistic Regression  
 - LightGBM  
 
-### 4️⃣ Evaluate Model
+### 4️ Evaluate Model
 - Confusion matrix  
 - Accuracy  
 - F1 score  
@@ -68,7 +68,7 @@ Models considered:
 
 ---
 
-## 📦 Sample Data (Will Provide)
+##  Sample Data (Will Provide)
 - Simulated variable star light curves  
 - Labeled dataset  
 - TESS/Kepler-style curves  
@@ -79,7 +79,7 @@ Models considered:
 ---
 ---
 
-## 📸 Example Outputs
+##   Outputs
 
 ### 🔹 Light Curve Grid
 This figure shows the 5 types of variable star light curves used in the dataset:
