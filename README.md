@@ -59,7 +59,7 @@ Models considered:
 - F1 score  
 - Class-wise performance  
 
-### 5️⃣ Interpretability (Optional)
+### 5️ Interpretability (Optional)
 - SHAP values  
 - Feature importance  
 
