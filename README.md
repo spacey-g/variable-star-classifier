@@ -15,7 +15,7 @@ This project demonstrates:
 
 ##  Goal
 
-To build a robust ML model that classifies stars into categories such as:
+To build a robust ML model that classifies stars such as:
 
 - RR Lyrae  
 - Cepheids  
@@ -63,21 +63,7 @@ Models considered:
 - SHAP values  
 - Feature importance  
 
----
 
-
----
-
-##  Sample Data (Will Provide)
-- Simulated variable star light curves  
-- Labeled dataset  
-- TESS/Kepler-style curves  
-
----
-
-
----
----
 
 ##   Outputs
 
@@ -97,5 +83,5 @@ This shows the performance of the Random Forest classifier after training on ext
 
 ![Confusion Matrix](docs/confusion_matrix.png)
 
-## ✨ Author
+## Author
 Grace (spacey-g)
